@@ -1,0 +1,17 @@
+{
+  "name": "hyper-omni",
+  "version": "0.0.1",
+  "main": "index.js",
+  "homepage": "https://omni.rocketseat.dev/hyper",
+  "description": "Omni is everywhere",
+  "keywords": [
+    "hyperterm",
+    "hyper",
+    "hyper.app",
+    "hyper omni",
+    "hyper theme",
+    "omni-theme"
+  ],
+  "author": "Mayk Brito <maykbrito@gmail.com>",
+  "license": "MIT"
+}
