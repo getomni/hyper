@@ -10,6 +10,10 @@
 
 Clone this repo to `~/.hyper_plugins/local/`
 
+```sh
+git clone https://github.com/getomni/hyper-omni ~/.hyper_plugins/local/hyper-omni
+```
+
 Add `hyper-omni` to the localPlugins list in your `~/.hyper.js` config file.
 
     localPlugins: [
