@@ -4,7 +4,7 @@
 
 If you are a git user, you can install the theme by cloning the repo to `~/.hyper_plugins/local/`:
 
-    $ git clone https://github.com/getomni/template.git
+    $ git clone https://github.com/getomni/hyper.git ./hyper-omni
 
 Otherwise, you can download using the [GitHub .zip](https://github.com/getomni/hyper/archive/master.zip) option and unzip them on your plugins folder.
 
