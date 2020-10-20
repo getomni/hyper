@@ -1,45 +1,43 @@
-# Omni for [Hyper](https://hyper.is)
+<h1 align="center">
+  <br>
+  <img src="https://storage.googleapis.com/golden-wind/github/omni/omni.png" alt="Omni Logo" width="100">
+  <br>
+  Omni for <a href="https://hyper.is">Hyper</a>
+  <br>
+</h1>
 
-> Omni is everywhere [Hyper](https://hyper.is).
+<p align="center">
+  <strong>Dark theme for <a href="https://hyper.is">Hyper</a></strong>
+</p>
 
-![Screenshot](./screenshot.png)
+<p align="center">
+  <img src="https://img.shields.io/badge/PRs-welcome-%235FCC6F.svg" alt="PRs welcome!" />
 
-## [Install](./INSTALL.md)
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-%235FCC6F">
+</p>
 
-#### Install using config file
+<p align="center">
+  <a href="#install">Install</a> •
+  <a href="#team">Team</a> •
+  <a href="#license">License</a>
+</p>
 
-Clone this repo to `~/.hyper_plugins/local/`
+<p align="center">
+  <img alt="Omni screnshoot for Hyper" src="./screenshot.png">
+</p>
 
-```sh
-git clone https://github.com/getomni/hyper-omni ~/.hyper_plugins/local/hyper-omni
-```
+## Install
 
-Add `hyper-omni` to the localPlugins list in your `~/.hyper.js` config file.
-
-    localPlugins: [
-    	'hyper-omni'
-    ]
-
-#### Activating theme
-
-1.  Start Hyper
-2.  Go to `View -> Full Reload` or pressing `Cmd + Shft + R`
-
-## Tips
-
-The screenshot shown is a combination of the following additional software:
-
-- [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh)
-- [Fast syntax highlighting](https://github.com/zdharma/fast-syntax-highlighting)
+All instructions can be found at [INSTALL.md](./INSTALL.md).
 
 ## Team
 
-This theme is maintained by the Rockeseat.
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/getomni/template/graphs/contributors).
 
-[![Mayk Brito](https://avatars2.githubusercontent.com/u/6643122?v=4&s=70)](https://github.com/maykbrito) |
---- |  
-Mayk Brito |
+| [![Mayk Brito](https://github.com/maykbrito.png?size=100)](https://github.com/maykbrito) |
+| ---------------------------------------------------------------------------------------- |
+| [Mayk Brito](https://github.com/maykbrito)                                               |
 
 ## License
 
-MIT License
+[MIT License](./LICENSE.md)
