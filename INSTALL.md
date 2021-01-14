@@ -1,18 +1,26 @@
 ### [Hyper](https://hyper.is/)
 
-#### Install using config file
+There are 2 different ways to install Omni on Hyper.
 
-If you are a git user, you can install the theme by cloning the repo to `~/.hyper_plugins/local/`:
+#### 1. Install using the hyper CLI (recommended)
 
-    $ git clone https://github.com/getomni/hyper ~/.hyper_plugins/local/hyper-omni
+```shell
+$ hyper install hyper-omni-theme
+```
 
-Otherwise, you can download using the [GitHub .zip](https://github.com/getomni/hyper/archive/master.zip) option and unzip them on your plugins folder.
+#### 2. Install using config file
 
-After that you need to add `hyper-omni` to the `localPlugins` list in your `~/.hyper.js` config file.
+Add `hyper-omni-theme` to the plugins list in your `~/.hyper.js` config file.
 
-    localPlugins: ['hyper-omni']
+```shell
+plugins: [
+  'hyper-omni-theme'
+]
+```
 
 #### Activating theme
 
+After installing it, you need to activate the theme. You can do so by following these steps:
+
 1.  Start Hyper;
-2.  Go to `View -> Full Reload`.
+2.  Go to `View -> Full Reload` or pressing `Cmd + Shft + R`.
