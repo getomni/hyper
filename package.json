@@ -1,9 +1,13 @@
 {
-  "name": "hyper-omni",
-  "version": "0.0.1",
+  "name": "hyper-omni-theme",
+  "version": "1.0.0",
   "main": "index.js",
-  "homepage": "https://omni.rocketseat.dev/hyper",
-  "description": "Omni is everywhere",
+  "homepage": "https://github.com/getomni/hyper#readme",
+  "description": "Omni theme for Hyper",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/getomni/hyper.git"
+  },
   "keywords": [
     "hyperterm",
     "hyper",
